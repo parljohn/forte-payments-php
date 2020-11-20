@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Rentpost\ForteApi\Test\Unit\Helper;
+namespace Rentpost\ForteApi\Test\Unit\Filter;
 
 use Rentpost\ForteApi\Attribute;
 use Rentpost\ForteApi\Exception\ValidationException;
