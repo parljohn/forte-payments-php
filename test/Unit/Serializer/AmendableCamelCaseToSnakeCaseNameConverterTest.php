@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace Rentpost\ForteApi\Test\Unit\Helper;
+namespace Rentpost\ForteApi\Test\Unit\Serializer;
 
 use Rentpost\ForteApi\Serializer\AmendableCamelCaseToSnakeCaseNameConverter;
 use Rentpost\ForteApi\Serializer\Factory;
